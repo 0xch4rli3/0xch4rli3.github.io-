@@ -24,6 +24,7 @@ $blue         : #0684bd;
 $blue-deep    : #262a30;
 $orange       : #fc6423;
 $black-charlie : rgb(0, 0, 0)
+$charlie      : #006400
 
 
 
@@ -44,7 +45,7 @@ $link-decoration-hover-color  : $black-charlie;
 $border-color                 : $black-charlie;
 
 // Background color for 2f343 <body>
-$body-bg-color                : #49f804;
+$body-bg-color                : $charlie;
 
 // Selection
 $selection-bg                 : $blue-deep;
