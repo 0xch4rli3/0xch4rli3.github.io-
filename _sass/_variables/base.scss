@@ -23,6 +23,7 @@ $blue-bright  : #87daff;
 $blue         : #0684bd;
 $blue-deep    : #262a30;
 $orange       : #fc6423;
+$black-charlie : rgb(0, 0, 0)
 
 
 
@@ -34,16 +35,16 @@ $orange       : #fc6423;
 $text-color                   : #000000;
 
 // Global link color.
-$link-color                   : $black-deep;
-$link-hover-color             : $black-deep;
-$link-decoration-color        : $black-deep;
-$link-decoration-hover-color  : $black-deep;
+$link-color                   : $black-charlie;
+$link-hover-color             : $black-charlie;
+$link-decoration-color        : $black-charlie;
+$link-decoration-hover-color  : $black-charlie;
 
 // Global border color.
-$border-color                 : $black-deep;
+$border-color                 : $black-charlie;
 
 // Background color for 2f343 <body>
-$body-bg-color                : #00FF7F;;
+$body-bg-color                : #15f30d;;
 
 // Selection
 $selection-bg                 : $blue-deep;
