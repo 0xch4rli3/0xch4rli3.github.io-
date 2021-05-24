@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 0x4rt3mis
+title: 0xch4rli3
 subtitle: 
-description: Ninguém é tão sábio que não possua nada a a aprender do mesmo modo que ninguém é tão ignorante a ponto de não ter nada a ensinar!
-author: 0x4rt3mis
+description: I am gROOT!
+author: 0xch4rli3
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: pt-BR
 date_format: '%Y-%m-%d'
@@ -453,9 +453,9 @@ gitalk:
   enable: true
   clientID: 57ee337f3936a48317c1 # 54730ddf7b9420460c03
   clientSecret:  967dcf1dd936cec78cf15972e3137d3c03011d25 # c05684701b25ff1c19ea0c01ce4d80c125e0707d
-  repo: 0x4rt3mis.github.io # colingpt.github.io
-  owner: 0x4rt3mis # colingpt
-  admin: 0x4rt3mis # colingpt
+  repo: 0xch4rli3.github.io # colingpt.github.io
+  owner: 0xch4rli3 # colingpt
+  admin: 0xch4rli3 # colingpt
 
 # Baidu Share
 # Available value:
