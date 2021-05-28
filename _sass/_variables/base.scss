@@ -35,16 +35,16 @@ $orange       : #fc6423;
 $text-color                   : #000000;
 
 // Global link color.
-$link-color                   : $blue-bright;
-$link-hover-color             : $blue;
-$link-decoration-color        : $grey-dim;
-$link-decoration-hover-color  : $grey-dim;
+$link-color                   : $black-deep;
+$link-hover-color             : $black-deep;
+$link-decoration-color        : $black-deep;
+$link-decoration-hover-color  : $black-deep;
 
 // Global border color.
-$border-color                 : $black-charlie;
+$border-color                 : $black-deep;
 
 // Background color for 2f343 <body>
-$body-bg-color                : #c01531;;
+$body-bg-color                : #292a7a;;
 
 // Selection
 $selection-bg                 : $blue-deep;
@@ -127,7 +127,7 @@ $zindex-5       : 1050;
 // Table
 // --------------------------------------------------
 $table-width                    : 100%;
-$table-border-color             : $red //$gray-lighter;
+$table-border-color             : $gray-lighter;
 $table-font-size                : 14px;
 $table-content-alignment        : left;
 $table-content-vertical         : middle;
