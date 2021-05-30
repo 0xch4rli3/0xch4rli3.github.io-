@@ -49,7 +49,7 @@ Agora com o parametro "-A" do nmap vamos descobrir mais informacoes sobre essas 
 sudo nmap -n -T5 -A -p 22,80 192.168.110.12
 ```
 
-![](/home/kali/CTF/laboratorio/semana08/zico2/img/port-scan.png)
+![](/assets/img/Vulnhub/WebDeveloper/port-scan.png)
 
 > - Porta 22:       ssh     OpenSSH 7.6p1 Ubuntu 4
 > - Porta 80:       http    Apache httpd 2.4.29
